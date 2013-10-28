@@ -2,6 +2,6 @@ package mainpackage;
 
 public class GitHubTest {
 	public static void main(String[] args) {
-		System.out.println("Update Git");
+		System.out.println("Update Git: 2");
 	}
 }
